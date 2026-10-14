@@ -1,17 +1,17 @@
-## Hey! I'm Jaden *(They/She)*
+# Hey! I'm Jaden *(They/She)*
 
-# Brief Bio
+### Brief Bio
 
 - I'm a senior Computer Science student with experience in web development, agro-technology, and youth education.
 - I am passionate about the intersection between sustainable farming/food security and technology.
 - As I finish my degree, I'm looking for jobs or projects in Web Development, Human-Computer Interaction, or Data Analysis.
 
-# Currently working on...
+### Currently working on...
 
 - my personal website ([repo](https://github.com/codemasterfrankie/personal-website))
-- Porchfest Walkabout mobile app (repo)
+- Porchfest Walkabout mobile app ([repo](https://github.com/codemasterfrankie/porchfest-walkabout-app))
 
-# Languages
+### Languages
 
 - C
 - Java
@@ -24,13 +24,13 @@
 - Liquid
 - LaTeX
 
-# Frameworks & Libraries
+### Frameworks & Libraries
 
 - Eleventy (11ty)
 - React Native
 - Expo
 
-# Tools & Platforms
+### Tools & Platforms
 
 - Git
 - GitHub
@@ -38,7 +38,7 @@
 - Linux (WSL)
 - Wireshark/TShark
 
-# Contact Me!
+### Contact Me!
 
 - To reach me, either connect with me on [LinkedIn](https://www.linkedin.com/in/jaden-rieck/) or shoot me an email at [whatsup@jadenrieck.com](whatsup@jadenrieck.com)!
 
