@@ -8,7 +8,7 @@
 
 # Currently working on...
 
-- my personal website (repo)
+- my personal website ([repo](https://github.com/codemasterfrankie/personal-website))
 - Porchfest Walkabout mobile app (repo)
 
 # Languages
